@@ -288,13 +288,10 @@ jobs:
           high_carb_limit \
           override_sens \
           now_line \
-          lnl_icon \
-          watch_title \
           2hlollipop \
           meal_week \
           profiles \
           basal_lock \
-          live_activity \
           negative_insulin \
           bolus_display \
           g7_scan
